@@ -6,7 +6,7 @@
 
 This project explores and visualizes Netflix’s content catalog using an interactive Power BI dashboard. The dataset, sourced from Kaggle, includes 8,000+ movies and TV shows. After thorough data cleaning and exploratory data analysis (EDA), key trends were uncovered across content type, genre, geography, and time.
 
-🔍 Key Insights:
+#### 📌  Key Insights:
 🎬 Distribution of Movies vs TV Shows
 
 🌍 Country-wise content production
@@ -17,7 +17,7 @@ This project explores and visualizes Netflix’s content catalog using an intera
 
 🔘 Type-based filtering using radio buttons
 
-🛠 Tools & Technologies:
+#### 📌 Tools & Technologies:
 Power BI
 
 DAX
@@ -28,5 +28,5 @@ Exploratory Data Analysis (EDA)
 
 Power Query
 
-📁 Dataset:
+#### 📌 Dataset:
 Netflix Movies and TV Shows — Kaggle Source
